@@ -1,0 +1,14 @@
+.btnPrimary {
+    color: #fff;
+    text-transform: uppercase;
+    font: 500 12px 'Montserrat';
+    background-color: #10c9c3;
+    padding: 22px 45px;
+    border: transparent;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.btnPrimary:hover {
+    background-color: #0faaa5;
+}

@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1970px;
+}
+
+.left {
+    width: 90%;
+    margin: 0 0 0 10%;
+}
+
+h3 {
+    font: 600 30px 'Montserrat';
+    color: #191919;
+}
